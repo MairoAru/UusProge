@@ -1,0 +1,15 @@
+{
+  "name": "progemine",
+  "version": "1.0.0",
+  "description": "my first nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "mairo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
